@@ -18,6 +18,13 @@ layout: compress
 
                 {{ content }} 
 
+                <section id="overview" class="overview-block">
+                    <div class="container">
+                        <h2>{{ site.overviewTitle }}</h2>
+                        <p>{{ site.overviewContent | markdownify }}</p>
+                    </div>
+                </section>
+
                 {% include footer.html %}
 
             </div>
