@@ -64,6 +64,14 @@ heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
+ # OVERVIEW Block
+overviewTitle: "OVERVIEW"
+overviewContent: |
+  The TIME 2025 workshop represents a pioneering initiative dedicated to advancing cross-domain knowledge exchange and methodological adaptation in contemporary web technologies. In the current digital ecosystem, characterized by multifaceted challenges spanning from privacy vulnerabilities to algorithmic biases, there exists a paramount necessity for integrating successful methodologies across disparate domains. 
+
+  This workshop bridges the gap between academic research and industry applications, providing a unique platform where experts and professionals can share insights on social network analysis, graph algorithms, web mining, security, privacy, and ethics. Through facilitating comprehensive evaluations and empirical guidance across these domains, TIME 2025 aims to bridge the theoretical-practical divide, translating cutting-edge research into actionable solutions for modern web challenges, setting a new standard for interdisciplinary collaboration in web technologies.
+
+
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
